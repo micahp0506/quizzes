@@ -1,0 +1,13 @@
+/*Navigation*/
+.nav >ul >li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+.nav {
+	word-spacing: 20px;
+}
+
+a {
+	text-decoration: none;
+}
