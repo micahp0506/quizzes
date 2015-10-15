@@ -11,3 +11,38 @@
 a {
 	text-decoration: none;
 }
+
+/*Article*/
+.disabled {
+	color: grey;
+}
+
+a .disabled {
+	color: purple;
+}
+
+.active {
+	color: yellow;
+}
+
+/*Div after article*/
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.background-red {
+	background: red;
+}
+
+.background-blue {
+	background: blue;
+}
+
+.border {
+	border: 1px solid black;
+	border-radius: 10px;
+}
