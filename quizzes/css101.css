@@ -46,7 +46,7 @@ a .disabled {
 	background: blue;
 }
 
-.border {
+.grandparent >h4 {
 	border: 1px solid black;
 	border-radius: 10px;
 }
